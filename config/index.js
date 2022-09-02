@@ -40,7 +40,7 @@ export const config = {
     // 所在省份
     PROVINCE: "湖南",
     // 所在城市
-    CITY: "临湘",
+    CITY: "岳阳",
 
     /** 重要节日相关 */
 
