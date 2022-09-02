@@ -24,12 +24,11 @@ export const config = {
      * ]
      */
     USERS: [
-      {name: '黎杰', id: "oPVhg54Hr51NNq6_W5HYKiPTGzr8"}, 
       {name: '欧阳美钰', id: "oPVhg5_4Bg-gfdMZ0mCEQ6kP5zSQ"}, 
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
-      {name: '自己',id: "lj1354450343"}, 
+      {name: '自己',id: "oPVhg54Hr51NNq6_W5HYKiPTGzr8"}, 
     ],
      
     /**
@@ -41,7 +40,7 @@ export const config = {
     // 所在省份
     PROVINCE: "湖南",
     // 所在城市
-    CITY: "岳阳",
+    CITY: "临湘",
 
     /** 重要节日相关 */
 
@@ -52,7 +51,7 @@ export const config = {
      * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
      */
     FESTIVALS: [
-      {"type": "生日", "name": "黎杰", "year": "2002", "date": "10-16"},
+      {"type": "生日", "name": "欧阳美钰", "year": "2002", "date": "06-11"},
     ],
 
     /**
