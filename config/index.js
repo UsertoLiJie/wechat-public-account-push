@@ -24,8 +24,9 @@ export const config = {
      * ]
      */
     USERS: [
-      {name: '邓淑慧', id: "oPVhg5-TeqCfQrpcJKhDUWjiUwII"}, 
       {name:  '黎杰'  ,id: "oPVhg54Hr51NNq6_W5HYKiPTGzr8"},
+      {name: '邓淑荟', id: "oPVhg5-TeqCfQrpcJKhDUWjiUwII"}, 
+      
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
@@ -52,7 +53,7 @@ export const config = {
      * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
      */
     FESTIVALS: [
-      {"type": "生日", "name": "邓淑慧", "year": "2002", "date": "08-17"},
+      {"type": "生日", "name": "邓淑慧", "year": "2002", "date": "10-16"},
     ],
 
     /**
